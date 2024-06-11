@@ -1,16 +1,16 @@
-# untitled
+# Bar Finders!
+## Workspace
 
-A new Flutter project.
+  · Github: https://github.com/Yushetf/Flutter_Project2
 
-## Getting Started
+  · Releases: https://github.com/Yushetf/Flutter_Project2/releases
 
-This project is a starting point for a Flutter application.
+  · Workspace: [https://upm365.sharepoint.com/sites/Tracking12/SitePages/Tracking.aspx](https://upm365.sharepoint.com/sites/Tracking12/SitePages/Tracking-Flutter-Project.aspx)
 
-A few resources to get you started if this is your first Flutter project:
+## Description
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+With the Bar Finders! application, you can find the nearest bars or restaurants in a matter of seconds based on our current location, and you can also indicate the maximum distance at which you want these bars or restaurants to appear. Additionally, we can automatically store in a list the bars that were available when we last used the application, as they will be saved in a database. We can also search by name among the bars that have appeared to us previously on the map.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Thanks to Bar Finders!, we will save time by not having to filter the type of place we want to search for, as it focuses exclusively on bars or restaurants.
+
+## Screenshots and navigation
