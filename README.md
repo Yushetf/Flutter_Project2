@@ -14,3 +14,13 @@ With the Bar Finders! application, you can find the nearest bars or restaurants 
 Thanks to Bar Finders!, we will save time by not having to filter the type of place we want to search for, as it focuses exclusively on bars or restaurants.
 
 ## Screenshots and navigation
+
+
+
+## Participants
+
+List of Proyecto_MAD developers:
+
+  · Yushetf López Jiménez (yushetf.lopez.jimenez@alumnos.upm.es)
+
+  · Jaime Pastor Ocariz (jaime.pastor.ocariz@alumnos.upm.es)
