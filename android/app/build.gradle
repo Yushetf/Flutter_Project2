@@ -1,5 +1,8 @@
 plugins {
     id "com.android.application"
+    // START: FlutterFire Configuration
+    id 'com.google.gms.google-services'
+    // END: FlutterFire Configuration
     id "kotlin-android"
     id "dev.flutter.flutter-gradle-plugin"
 }
@@ -49,6 +52,7 @@ android {
         targetSdkVersion flutter.targetSdkVersion
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
+        multiDexEnabled true
     }
 
     buildTypes {
@@ -63,5 +67,8 @@ android {
 flutter {
     source '../..'
 }
+dependencies {
+    implementation 'androidx.multidex:multidex:2.0.1' // Añade esta línea
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.9.0"
 
-dependencies {}
+}
